@@ -1,2 +1,2 @@
-Shell script that runs a Python script.
+Introduction to Python programming language
 
